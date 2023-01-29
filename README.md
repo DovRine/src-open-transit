@@ -11,6 +11,14 @@ A better way to do this might be to make different branches/tags or even repos f
 Ultimately, I plan to setup Docker containers for each env and expect to develop locally inside them using vscode's remote extension.
 
 
+### Resources
+#### RTC
+- Developer Site
+  - Main page: https://www.rtcsnv.com/ways-to-travel/transit-services/for-developers/
+  - Static files: http://rtcws.rtcsnv.com/g/google_transit.zip
+  - Datafeed Url: http://rtcws.rtcsnv.com/gtfrt/tripUpdates.pb
+  - Examples for consuming the Datafeed: https://developers.google.com/transit/gtfs-realtime/examples/trip-updates-full
+  - 
 ---
 
 ### Beginner Resources
@@ -27,7 +35,11 @@ Ultimately, I plan to setup Docker containers for each env and expect to develop
 
 #### Technologies and Concepts
 - Protocol Buffers (protobuf)
+  - basic concepts: https://developers.google.com/protocol-buffers/
   - github repository: https://github.com/protocolbuffers/protobuf
+- General Transit Feed Specification (GTFS):
+  - overview: https://developers.google.com/transit/gtfs
+
 
 ---
 
