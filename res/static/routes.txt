@@ -1,0 +1,79 @@
+route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
+Las Vegas Bl. South/Silverado Ranch,3,FFFFFF,00AEEF,RTCSNV,4393,http://rtcws.rtcsnv.com/routePDF/117.pdf,,117
+Simmons/Koval,3,FFFFFF,00AEEF,RTCSNV,4433,http://rtcws.rtcsnv.com/routePDF/119.pdf,,119
+S. Maryland Pkwy/W. Henderson,3,FFFFFF,009140,RTCSNV,4397,http://rtcws.rtcsnv.com/routePDF/122.pdf,,122
+Jones,3,FFFFFF,00AEEF,RTCSNV,4421,http://rtcws.rtcsnv.com/routePDF/102.pdf,,102
+Spring Mtn./Desert Inn/Lamb,3,FFFFFF,804C9E,RTCSNV,4400,http://rtcws.rtcsnv.com/routePDF/203.pdf,,203
+Las Vegas Bl. South/Silverado Ranch,3,FFFFFF,00AEEF,RTCSNV,4432,http://rtcws.rtcsnv.com/routePDF/117.pdf,,117
+Rancho/Centennial Hills,3,FFFFFF,00AEEF,RTCSNV,4386,http://rtcws.rtcsnv.com/routePDF/106.pdf,"All Route 111 trips operate along mostly Pecos from Craig to Sunset Rd, typically every 30 minutes. The route is branched south of Sunset, with 111A trips remaining on Pecos & 111B trips serving Green Valley Pkwy, each mostly once an hour.",106
+The Deuce/Strip,3,FFFFFF,ED1C24,RTCSNV,4453,http://rtcws.rtcsnv.com/routePDF/deuce.pdf,,DEUCE
+Cactus/Horizon Ridge/Boulder City,3,FFFFFF,009140,RTCSNV,4452,http://rtcws.rtcsnv.com/routePDF/221.pdf,,221
+Tropicana,3,FFFFFF,ED1C24,RTCSNV,4437,http://rtcws.rtcsnv.com/routePDF/201.pdf,"All Route 201 trips operate along Tropicana from Rainbow to Jimmy Durante, every 15-20 minutes during peak hours. The route is branched west of Rainbow, with 201A trips remaining on Tropicana & 201B trips serving W. Russell, each mostly every 30-40 minutes.",201
+S. Maryland Pkwy/W. Henderson,3,FFFFFF,009140,RTCSNV,4436,http://rtcws.rtcsnv.com/routePDF/122.pdf,,122
+Centennial Express,3,FFFFFF,009140,RTCSNV,4457,http://rtcws.rtcsnv.com/routePDF/cx.pdf,,CX
+Craig Rd,3,FFFFFF,00AEEF,RTCSNV,4411,http://rtcws.rtcsnv.com/routePDF/219.pdf,,219
+Boulder Highway Express,3,FFFFFF,ED1C24,RTCSNV,4455,http://rtcws.rtcsnv.com/routePDF/bhx.pdf,,BHX
+N. Outlets/Symphony Park,3,FFFFFF,ED1C24,RTCSNV,4454,http://rtcws.rtcsnv.com/routePDF/401.pdf,,401
+Vegas/Owens,3,FFFFFF,009140,RTCSNV,4404,http://rtcws.rtcsnv.com/routePDF/209.pdf,,209
+Nellis/Stephanie,3,FFFFFF,804C9E,RTCSNV,4459,http://rtcws.rtcsnv.com/routePDF/115.pdf,,115
+Valley View,3,FFFFFF,00AEEF,RTCSNV,4384,http://rtcws.rtcsnv.com/routePDF/104.pdf,,104
+Spring Mtn./Desert Inn/Lamb,3,FFFFFF,804C9E,RTCSNV,4439,http://rtcws.rtcsnv.com/routePDF/203.pdf,,203
+Flamingo,3,FFFFFF,ED1C24,RTCSNV,4438,http://rtcws.rtcsnv.com/routePDF/202.pdf,,202
+Eastern,3,FFFFFF,804C9E,RTCSNV,4389,http://rtcws.rtcsnv.com/routePDF/110.pdf,,110
+Maryland Pkwy.,3,FFFFFF,ED1C24,RTCSNV,4388,http://rtcws.rtcsnv.com/routePDF/109.pdf,,109
+Downtown & Vets. Med. Ctr. Express,3,FFFFFF,00AEEF,RTCSNV,4419,http://rtcws.rtcsnv.com/routePDF/dvx.pdf,,DVX
+Centennial Express,3,FFFFFF,009140,RTCSNV,4418,http://rtcws.rtcsnv.com/routePDF/cx.pdf,,CX
+Decatur,3,FFFFFF,804C9E,RTCSNV,4383,http://rtcws.rtcsnv.com/routePDF/103.pdf,,103
+Jones,3,FFFFFF,00AEEF,RTCSNV,4382,http://rtcws.rtcsnv.com/routePDF/102.pdf,,102
+Rainbow,3,FFFFFF,00AEEF,RTCSNV,4381,http://rtcws.rtcsnv.com/routePDF/101.pdf,,101
+The Deuce/Strip,3,FFFFFF,ED1C24,RTCSNV,4414,http://rtcws.rtcsnv.com/routePDF/deuce.pdf,,DEUCE
+Paradise,3,FFFFFF,00AEEF,RTCSNV,4387,http://rtcws.rtcsnv.com/routePDF/108.pdf,,108
+Ann/Tropical,3,FFFFFF,009140,RTCSNV,4412,http://rtcws.rtcsnv.com/routePDF/220.pdf,,220
+Martin L. King,3,FFFFFF,804C9E,RTCSNV,4385,http://rtcws.rtcsnv.com/routePDF/105.pdf,,105
+Cheyenne,3,FFFFFF,00AEEF,RTCSNV,4410,http://rtcws.rtcsnv.com/routePDF/218.pdf,,218
+Paradise,3,FFFFFF,00AEEF,RTCSNV,4426,http://rtcws.rtcsnv.com/routePDF/108.pdf,,108
+Lake Mead Blvd.,3,FFFFFF,804C9E,RTCSNV,4405,http://rtcws.rtcsnv.com/routePDF/210.pdf,,210
+Sahara Express,3,FFFFFF,804C9E,RTCSNV,4456,http://rtcws.rtcsnv.com/routePDF/sx.pdf,,SX
+Durango/Buffalo,3,FFFFFF,00AEEF,RTCSNV,4461,http://rtcws.rtcsnv.com/routePDF/121.pdf,,121
+Decatur,3,FFFFFF,804C9E,RTCSNV,4422,http://rtcws.rtcsnv.com/routePDF/103.pdf,,103
+Rancho/Centennial Hills,3,FFFFFF,00AEEF,RTCSNV,4425,http://rtcws.rtcsnv.com/routePDF/106.pdf,,106
+Martin L. King,3,FFFFFF,804C9E,RTCSNV,4424,http://rtcws.rtcsnv.com/routePDF/105.pdf,,105
+Ann/Tropical,3,FFFFFF,009140,RTCSNV,4451,http://rtcws.rtcsnv.com/routePDF/220.pdf,,220
+Charleston,3,FFFFFF,ED1C24,RTCSNV,4440,http://rtcws.rtcsnv.com/routePDF/206.pdf,,206
+Washington,3,FFFFFF,00AEEF,RTCSNV,4442,http://rtcws.rtcsnv.com/routePDF/208.pdf,,208
+Maryland Pkwy.,3,FFFFFF,ED1C24,RTCSNV,4427,http://rtcws.rtcsnv.com/routePDF/109.pdf,,109
+Lake Mead Blvd.,3,FFFFFF,804C9E,RTCSNV,4444,http://rtcws.rtcsnv.com/routePDF/210.pdf,,210
+Sunset,3,FFFFFF,00AEEF,RTCSNV,4406,http://rtcws.rtcsnv.com/routePDF/212.pdf,,212
+H Street/D Street,3,FFFFFF,00AEEF,RTCSNV,4446,http://rtcws.rtcsnv.com/routePDF/214.pdf,,214
+Bonanza,3,FFFFFF,804C9E,RTCSNV,4447,http://rtcws.rtcsnv.com/routePDF/215.pdf,,215
+Warm Springs/Lake Mead Pkwy.,3,FFFFFF,00AEEF,RTCSNV,4448,http://rtcws.rtcsnv.com/routePDF/217.pdf,,217
+Cheyenne,3,FFFFFF,00AEEF,RTCSNV,4449,http://rtcws.rtcsnv.com/routePDF/218.pdf,,218
+Valley View,3,FFFFFF,00AEEF,RTCSNV,4423,http://rtcws.rtcsnv.com/routePDF/104.pdf,,104
+Alta/Stewart,3,FFFFFF,009140,RTCSNV,4462,http://rtcws.rtcsnv.com/routePDF/207.pdf,,207
+Vegas/Owens,3,FFFFFF,009140,RTCSNV,4463,http://rtcws.rtcsnv.com/routePDF/209.pdf,,209
+Fort Apache/Rampart,3,FFFFFF,00AEEF,RTCSNV,4460,http://rtcws.rtcsnv.com/routePDF/120.pdf,,120
+Charleston,3,FFFFFF,ED1C24,RTCSNV,4401,http://rtcws.rtcsnv.com/routePDF/206.pdf,,206
+Tropicana,3,FFFFFF,ED1C24,RTCSNV,4398,http://rtcws.rtcsnv.com/routePDF/201.pdf,"All Route 201 trips operate along Tropicana from Rainbow to Jimmy Durante, every 15 minutes during peak hours. The route is branched west of Rainbow, with 201A trips remaining on Tropicana & 201B trips serving W. Russell, each mostly every 30 minutes.",201
+Flamingo,3,FFFFFF,ED1C24,RTCSNV,4399,http://rtcws.rtcsnv.com/routePDF/202.pdf,,202
+Eastern,3,FFFFFF,804C9E,RTCSNV,4428,http://rtcws.rtcsnv.com/routePDF/110.pdf,,110
+Pecos/Green Valley Pkwy.,3,FFFFFF,00AEEF,RTCSNV,4429,http://rtcws.rtcsnv.com/routePDF/111.pdf,"All Route 111 trips operate along mostly Pecos from Craig to Sunset Rd, typically every 30 minutes. The route is branched south of Sunset, with 111A trips remaining on Pecos & 111B trips serving Green Valley Pkwy, each mostly once an hour.",111
+Bonanza,3,FFFFFF,804C9E,RTCSNV,4408,http://rtcws.rtcsnv.com/routePDF/215.pdf,,215
+Warm Springs/Lake Mead Pkwy.,3,FFFFFF,00AEEF,RTCSNV,4409,http://rtcws.rtcsnv.com/routePDF/217.pdf,,217
+Pecos/Green Valley Pkwy.,3,FFFFFF,00AEEF,RTCSNV,4390,http://rtcws.rtcsnv.com/routePDF/111.pdf,,111
+Las Vegas Blvd North,3,FFFFFF,ED1C24,RTCSNV,4391,http://rtcws.rtcsnv.com/routePDF/113.pdf,,113
+Nellis/Stephanie,3,FFFFFF,804C9E,RTCSNV,4392,http://rtcws.rtcsnv.com/routePDF/115.pdf,,115
+H Street/D Street,3,FFFFFF,00AEEF,RTCSNV,4407,http://rtcws.rtcsnv.com/routePDF/214.pdf,,214
+Simmons/Koval,3,FFFFFF,00AEEF,RTCSNV,4394,http://rtcws.rtcsnv.com/routePDF/119.pdf,,119
+Fort Apache/Rampart,3,FFFFFF,00AEEF,RTCSNV,4395,http://rtcws.rtcsnv.com/routePDF/120.pdf,,120
+Alta/Stewart,3,FFFFFF,009140,RTCSNV,4402,http://rtcws.rtcsnv.com/routePDF/207.pdf,,207
+Washington,3,FFFFFF,00AEEF,RTCSNV,4403,http://rtcws.rtcsnv.com/routePDF/208.pdf,,208
+Sahara Express,3,FFFFFF,804C9E,RTCSNV,4417,http://rtcws.rtcsnv.com/routePDF/sx.pdf,,SX
+Cactus/Horizon Ridge/Boulder City,3,FFFFFF,009140,RTCSNV,4413,http://rtcws.rtcsnv.com/routePDF/221.pdf,,221
+Sunset,3,FFFFFF,00AEEF,RTCSNV,4445,http://rtcws.rtcsnv.com/routePDF/212.pdf,,212
+Durango/Buffalo,3,FFFFFF,009140,RTCSNV,4396,http://rtcws.rtcsnv.com/routePDF/121.pdf,,121
+Boulder Highway Express,3,FFFFFF,ED1C24,RTCSNV,4416,http://rtcws.rtcsnv.com/routePDF/bhx.pdf,,BHX
+Rainbow,3,FFFFFF,00AEEF,RTCSNV,4420,http://rtcws.rtcsnv.com/routePDF/101.pdf,,101
+Craig Rd,3,FFFFFF,00AEEF,RTCSNV,4450,http://rtcws.rtcsnv.com/routePDF/219.pdf,,219
+N. Outlets/Symphony Park,3,FFFFFF,ED1C24,RTCSNV,4415,http://rtcws.rtcsnv.com/routePDF/401.pdf,,401
+Downtown & Vets. Med. Ctr. Express,3,FFFFFF,00AEEF,RTCSNV,4458,http://rtcws.rtcsnv.com/routePDF/dvx.pdf,,DVX
+Las Vegas Blvd North,3,FFFFFF,ED1C24,RTCSNV,4430,http://rtcws.rtcsnv.com/routePDF/113.pdf,,113
